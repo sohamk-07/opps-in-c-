@@ -14,9 +14,9 @@
 
 | 📝 Detail | 📌 Information |
 |---|---|
-| **👤 Name** | Sahil Pawar |
-| **🆔 PRN** | Enter your PRN |
-| **🏫 Class / Division** | SY – C |
+| **👤 Name** | Soham Kotalwar |
+| **🆔 PRN** | 125UAD1121 |
+| **🏫 Class / Division** | SY – F |
 | **🎓 Programme** | B.Tech Artificial Intelligence & Data Science |
 | **📅 Semester** | III |
 | **📖 Course** | Object Oriented Programming with C++ |
